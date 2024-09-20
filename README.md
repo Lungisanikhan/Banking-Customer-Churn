@@ -3,21 +3,23 @@
 This project aims to predict customer churn in a banking environment. The model was developed using Google Colab, and the dataset was sourced from Kaggle.
 
 ## Table of Contents
-- Usage
-- Project Structure
-- Data
-- Steps
-  - Mounting Data on Google Drive
-  - Imports
-  - Loading and Displaying Data
-  - Data Preprocessing and Cleaning
-  - Feature Engineering
-  - Exploratory Data Analysis (EDA)
-  - Model Selection and Evaluation
-  - Model Improvement
-  - Model Testing and Deployment
-- Contributing
-- License
+###### Installation
+###### Usage
+###### Project Structure
+###### Data
+###### Steps
+###### Mounting Data on Google Drive
+###### Imports
+###### Loading and Displaying Data
+###### Data Preprocessing and Cleaning
+###### Feature Engineering
+###### Exploratory Data Analysis (EDA)
+###### Model Selection and Evaluation
+###### Model Improvement
+###### Model Testing and Deployment
+###### Contributing
+###### License
+
 
 <h3>Usage</h3>
 Open the Banking_Customer_Churn_Predictor.ipynb notebook in Google Colab and follow the steps outlined.
