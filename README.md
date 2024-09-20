@@ -5,7 +5,6 @@ This project aims to predict customer churn in a banking environment. The model 
 ## Table of Contents
 ######  - Installation
 ######  - Usage
-######  - Project Structure
 ######  - Data
 ######  - Steps
 ######  - Mounting Data on Google Drive
@@ -24,15 +23,6 @@ This project aims to predict customer churn in a banking environment. The model 
 <h3>Usage</h3>
 Open the Banking_Customer_Churn_Predictor.ipynb notebook in Google Colab and follow the steps outlined.
 
-<h3>Project Structure</h3>  
-####### banking-customer-churn-predictor/
-####### ├── data/
-####### │   └── Churn_Modelling.csv
-####### ├── notebooks/
-####### │   └── Banking_Customer_Churn_Predictor.ipynb
-####### ├── models/
-####### │   └── final_model.pkl
-####### └──  README.md
 
 
 <h3>Contributing</h3>
