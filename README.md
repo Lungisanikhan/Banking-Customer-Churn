@@ -26,13 +26,13 @@ Open the Banking_Customer_Churn_Predictor.ipynb notebook in Google Colab and fol
 
 <h3>Project Structure</h3>  
 banking-customer-churn-predictor/
-├── data/
-│   └── Churn_Modelling.csv
-├── notebooks/
-│   └── Banking_Customer_Churn_Predictor.ipynb
-├── models/
-│   └── final_model.pkl
-└──  README.md
+#######├── data/
+#######│   └── Churn_Modelling.csv
+#######├── notebooks/
+#######│   └── Banking_Customer_Churn_Predictor.ipynb
+#######├── models/
+#######│   └── final_model.pkl
+#######└──  README.md
 
 
 <h3>Contributing</h3>
